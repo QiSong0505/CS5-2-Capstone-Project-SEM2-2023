@@ -20,5 +20,5 @@ pesticides. This will be achieved by integrating a temporal framework of pestici
 assist farmers in making informed decisions at every stage of the decision-making process. This will 
 help reduce the risk of pesticide exposure and ensure farmers and their communities are kept safe.
 
-**Expected outcomes/deliverables: **
+**Expected outcomes/deliverables:**
 Prototype of a mobile application.
