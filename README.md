@@ -15,7 +15,7 @@ productivity. Pests (insects, diseases, and weeds) are present in all of these l
 areas which can result in substantial yield losses. Chemical control is by far the most commonly 
 adopted practice to manage such pests; however, in Northwest Cambodia pesticides are often 
 misused by farmers and sprayers, which can lead to accidental pesticide poisoning, illnesses, and 
-even death.
+even death.              
 This project aims to develop a mobile application that incorporates evidence-based research 
 collected in Northwest Cambodia to promote safe working practices when applying chemical 
 pesticides. This will be achieved by integrating a temporal framework of pesticide use into an app to 
