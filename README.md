@@ -1,10 +1,9 @@
-# The largest heading
 # Welcome to the CS5-2 Capstone Project SEM2 2023!
 
-Project Source: School of Life and Environmental Sciences, Faculty of Science, USYD
-Project Title: Development of mobile application on pesticide safety and handing for Cambodian farmers.
+**Project Source:** School of Life and Environmental Sciences, Faculty of Science, USYD
+**Project Title:** Development of mobile application on pesticide safety and handing for Cambodian farmers.
 
-Project Description and Scope: 
+**Project Description and Scope: **
 Optimising rice productivity is one of the key determinants in achieving future food security as rice is 
 a major staple food and currently feeds more than three billion people, most of whom are from 
 developing countries where population growth is most rapid. Cambodia is a developing nation, with 
@@ -20,5 +19,5 @@ pesticides. This will be achieved by integrating a temporal framework of pestici
 assist farmers in making informed decisions at every stage of the decision-making process. This will 
 help reduce the risk of pesticide exposure and ensure farmers and their communities are kept safe.
 
-Expected outcomes/deliverables: 
+**Expected outcomes/deliverables: **
 Prototype of a mobile application.
